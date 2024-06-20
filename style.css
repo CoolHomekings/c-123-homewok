@@ -1,0 +1,14 @@
+h2
+{
+    font-size: 35px !important;
+}
+button
+{
+font-size: 26px !important;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+canvas
+{
+    border: 2px dashed black;
+    margin-top: 80px;
+}
